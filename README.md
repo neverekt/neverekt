@@ -18,8 +18,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 ### I am an aspiring full-stack developer
 - 🔭 I’m currently working automating AI image generation taking the users self-scored emotions and converting into descriptive words:grin:
 - 🌱 I’m currently on a front end development bootcamp
