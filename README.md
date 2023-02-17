@@ -1,11 +1,3 @@
----
-title: Jack-Turner
-date: '2023-02-17'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'Neverekt'
----
-
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
@@ -13,7 +5,7 @@ githubUsername: 'Neverekt'
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/neverekt" />
 </p>
 
 <p align="center">
