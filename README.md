@@ -18,15 +18,17 @@
 
 <br>
 
-<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
 ### I am an aspiring full-stack developer
 - 🔭 I’m currently working automating AI image generation taking the users self-scored emotions and converting into descriptive words:grin:
 - 🌱 I’m currently on a front end development bootcamp
-- 👯 I’m looking to network and develop a showcase of high quality repositories :wink:
+- 👯 I’m looking to network and develop a showcase of high quality reposs :wink:
 - 🥅 2023 Goals: Launch 2 fully automated commercial full stacks relating to 1) energy efficency and 2) AI image generation from self-scored emotional assessment
-- 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Find a way to automate a process and find unique ways to solve problems
+- 🧗 I try to: Find a way to automate a a process
+
 
 <br>
 
