@@ -27,7 +27,7 @@
 - 👯 I’m looking to network and develop a showcase of high quality reposs :wink:
 - 🥅 2023 Goals: Launch 2 fully automated commercial full stacks relating to 1) energy efficency and 2) AI image generation from self-scored emotional assessment
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Find a way to automate a a process
+- 🧗 I try to: Find a way to automate a process
 
 
 <br>
