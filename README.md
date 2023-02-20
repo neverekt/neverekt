@@ -26,7 +26,7 @@
 - 🌱 I’m currently on a front end development bootcamp
 - 👯 I’m looking to network and develop a showcase of high quality reposs :wink:
 - 🥅 2023 Goals: Launch 2 fully automated commercial full stacks relating to 1) energy efficency and 2) AI image generation from self-scored emotional assessment
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: <a href='https://www.linkedin.com/in/drjet1'>Let's get in touch!</a>
 - 🧗 I try to: Find a way to automate a process
 
 
@@ -62,9 +62,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neverekt&show_icons=true&hide_border=true&theme=radical">
 </p>
 
-<!-- stats
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neverekt&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+![JTs github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neverekt&show_icons=true&hide_border=true")-->
 
 <!-- repos
 <a href="https://github.com/Neverekt/Readers-Cabin">
@@ -98,7 +98,7 @@ No Activity tracked this Week
 ⭐️ From [Nevertekt](https://github.com/Neverekt)
 
 <!--[website]: -->
-<!-- [twitter]: https://twitter.com/sumanth_98?s=09 -->
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
+<!-- [twitter]: https://twitter.com/ -->
+<!--[youtube]: https://www.youtube.com/channel/-->
 [web]: https://www.synaptink.com
-[linkedin]: https://www.linkedin.com/en/drjet1
+[linkedin]: https://www.linkedin.com/in/drjet1
