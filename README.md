@@ -95,7 +95,7 @@ No Activity tracked this Week
 
 #### Thank You-🙏🏼
 
-⭐️ From [Nevertekt](https://github.com/Neverekt)
+⭐️ From [Neverekt](https://github.com/Neverekt)
 
 <!--[website]: -->
 <!-- [twitter]: https://twitter.com/ -->
