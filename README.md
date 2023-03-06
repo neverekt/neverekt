@@ -22,13 +22,12 @@
 
 
 ### I am an aspiring full-stack developer
-- 🔭 I’m currently working automating AI image generation taking the users self-scored emotions and converting into descriptive words:grin:
-- 🌱 I’m currently on a front end development bootcamp
-- 👯 I’m looking to network and develop a showcase of high quality reposs :wink:
-- 🥅 2023 Goals: Launch 2 fully automated commercial full stacks relating to 1) energy efficency and 2) AI image generation from self-scored emotional assessment
+- 🔭 I’m currently working on 1) Development bootcamp React module, 2) Developing an AI image generation web app with a discord bot and 3) Training custom language models using the OpenAI API:grin:
+- 🌱 I’m currently on a front end development bootcamp until the end of march then various personal and collaborative projects will be taking over
+- 👯 I’m looking to practice, learn and network
+- 🥅 2023 Goals: Launch several web applications including 1) Energy Efficiency portal, 2) AI image generation, 3) Various bots and automation
 - 📬 How to reach me: <a href='https://www.linkedin.com/in/drjet1'>Let's get in touch!</a>
-- 🧗 I try to: Find a way to automate a process
-
+- 🧗 I always try to: Find a way to automate a process
 
 <br>
 
