@@ -22,7 +22,7 @@
 
 
 ### I am an aspiring full-stack developer
-- 🔭 I’m currently working on 1) Development bootcamp React module, 2) Developing an AI image generation web app with a discord bot and 3) Training custom language models using the OpenAI API:grin:
+- 🔭 I’m currently working on 1) Development bootcamp final project, 2) AI image generation web app 3) Training custom language models:grin:
 - 🌱 I’m currently on a front end development bootcamp until the end of march then various personal and collaborative projects will be taking over
 - 👯 I’m looking to practice, learn and network
 - 🥅 2023 Goals: Launch several web applications including 1) Energy Efficiency portal, 2) AI image generation, 3) Various bots and automation
