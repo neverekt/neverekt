@@ -4,9 +4,11 @@
   <h1 align="center"><b>Hello there, I'm Jack👋</b></h1>
 </p>
 
+<!--
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/neverekt" />
 </p>
+-->
 
 <p align="center">
 <br>
